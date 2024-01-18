@@ -2,7 +2,9 @@ This is the collection of exercises from the course Information theory for compl
 
 Course overview: The course provides an understanding of fundamental concepts used to describe complex systems, in particular dynamical systems such as chaotic low-dimensional systems, self-organizing systems, and simple spatially extended systems such as cellular automata. Many of the concepts are based in information theory.
 
-Basic concepts of information theory: Shannon entropy, complexity measures.
+Basic concepts of information theory: 
+
+Shannon entropy, complexity measures.
 
 Information theory and statistical mechanics.
 
