@@ -56,7 +56,7 @@ def BuildDecisionTree(data, ignored_columns=[]):
         subtree = BuildDecisionTree(subset, ignored_columns.copy())
         tree[(column_names[maxInformationGainIndex], value)] = subtree
 
-    # Calculate H(S|A) for the current node
+
     H_S_A = maxInformationGain
 
     return {'H(S|A)': H_S_A, 'H(S)': baseEntropy, 'Subtree': tree}
